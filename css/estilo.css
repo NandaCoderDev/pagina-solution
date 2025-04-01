@@ -1,6 +1,6 @@
 #home {
-	background: #ffc107 ;
-	color: white;
+	background: #7eef5f ;
+	color: rgb(9, 9, 9);
 }
 
 .caixa {
@@ -10,4 +10,19 @@
 
 footer p a {
 	margin: 5px 15px;
+}
+
+#home form button {
+	border-radius: 18px;
+	
+}
+
+#home form input {
+	border-radius: 10px;
+	margin-right: 10px;
+}
+
+
+#nav-principal li {
+	border-radius: 6px;
 }
