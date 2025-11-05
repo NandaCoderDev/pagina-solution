@@ -1,8 +1,8 @@
-🧠 Sobre o projeto
+🧠 O projeto
 Página Solution é um projeto introdutório desenvolvido com as tecnologias fundamentais do front-end:
 
 <p align="center">
-  <img src="./images/preview.png" width="600" alt="Preview do projeto" />
+  <img src="./preview.png" width="600" alt="Preview do projeto" />
 </p>
 
 
