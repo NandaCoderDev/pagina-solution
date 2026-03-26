@@ -1,29 +1,68 @@
 # 🌐 Página Solution
 
-## Preview do projeto
-<img src="./preview.png" width="600" alt="Preview do projeto" />
+## 📸 Preview
+<img src="./preview.png" width="600" alt="Project preview" />
 
-Projeto prático de desenvolvimento front-end, criado para aplicar conceitos fundamentais de HTML, CSS e JavaScript.
+---
 
-## 🧠 Sobre o projeto
-Este foi meu primeiro projeto prático como desenvolvedora front-end, com foco em estruturação semântica, responsividade e interatividade.
+## 🚀 About the Project
 
-## 🚀 Tecnologias utilizadas
+This is a front-end project developed to practice fundamental concepts of HTML, CSS, and JavaScript, focusing on structure, responsiveness, and user interaction.
+
+---
+
+## 🧠 Background
+
+This was my first practical project as a front-end developer, where I focused on semantic HTML, responsive design, and basic interactivity.
+
+---
+
+## 🛠️ Technologies Used
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## ✨ Funcionalidades
-- Layout responsivo
-- Botões com animações simples
-- Estrutura HTML semântica
-- Estilização moderna com CSS
-- Interações básicas com JavaScript
+---
 
-## 🔗 Deploy
-Acesse o projeto online:
+## ✨ Features
+
+- Responsive layout  
+- Simple button animations  
+- Semantic HTML structure  
+- Modern CSS styling  
+- Basic JavaScript interactions  
+
+---
+
+## 🔗 Live Demo
 
 👉 https://nandacoderdev.github.io/pagina-solution/
 
-## 🎯 Objetivo
-Praticar desenvolvimento front-end e consolidar conhecimentos iniciais na criação de interfaces web.
+---
+
+## 🧪 QA Perspective
+
+This project can be used to practice:
+
+- UI validation  
+- Responsiveness testing (mobile, tablet, desktop)  
+- Cross-browser testing  
+- User interaction testing  
+- Usability evaluation  
+
+---
+
+📌 Purpose
+
+This project was created to strengthen front-end fundamentals while applying a QA mindset focused on user experience and interface quality.
+
+👩‍💻 Author
+
+Fernanda Marques
+GitHub: https://github.com/NandaTechLabs
+
+## 📂 How to Run
+
+```bash
+git clone https://github.com/NandaCoderDev/pagina-solution.git
